@@ -11,6 +11,14 @@
 
 ## 🖥️ System Architecture & Visual Wiring Layout
 
+### 🔌 Graphical Schematic & Pinout Diagrams
+
+![ESPNOW Car Transmitter](Diagrams/ESPNOW%20Car%20Transmitter.png)
+
+![ESPNOW Car Receiver](Diagrams/ESPNOW%20Car%20Receiver.png)
+
+
+
 ```
 ┌── ESP-NOW LOW-LATENCY TRANSMITTER & RECEIVER ───────────────────────────┐
 │                                                                         │
